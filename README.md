@@ -1,3 +1,3 @@
 # Curso_Ebac_Frontend
 
-init
+Exercicio_git > arquivo.txt
